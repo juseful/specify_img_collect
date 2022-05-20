@@ -1,0 +1,1 @@
+# specify_img_collect
